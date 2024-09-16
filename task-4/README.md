@@ -17,4 +17,6 @@
 ![snapshot-3](./screenshots/event-1.png)
 ![snapshot-4](./screenshots/event-target.png)
 5. From the screenshots configured cornjobs for every 10mins.
-6. Final output of rule
+6. Final output of rule after waitng 10hrs
+![snapshot-5](./screenshots/event-2.png)
+![snapshot-5](./screenshots/event-3.png)
